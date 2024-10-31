@@ -1,0 +1,41 @@
+#wp_addweather{ margin: 0; padding: 0; float: none; text-align: left;}
+#wp_addweather .wp_addweather{
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+	background: url(icon/bg_weather.png);
+	margin:0;
+	padding:0;
+	width:157px;
+	height:46px;
+	display:block;
+	position:relative;
+	color:#FFFFFF;
+}
+#wp_addweather .wp_addweather img{
+	margin: 0;
+	padding: 0;
+	border: none;
+
+}
+#wp_addweather .wp_addweather strong{
+	font-size:10px;
+	font-weight:normal;
+	display: block;
+	position:absolute;
+	top: 12px;
+	left:46px;
+}
+#wp_addweather .wp_addweather abbr{
+	font-size:10px;
+	font-weight:normal;
+	border-bottom-color:#FFFFFF;
+}
+#wp_addweather .wp_addweather em{
+	font-style: normal;
+	font-weight: normal;
+	font-size:26px;
+	color:#FFFFFF;
+	position:absolute;
+	top:3px;
+	right:10px;
+	
+}

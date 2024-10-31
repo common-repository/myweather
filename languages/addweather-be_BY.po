@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addWeather\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-08-28 14:09+0200\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: ilyuha <iliamrv@ya.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__s;_es\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "if you have problems, click here to reset the plug-in"
+msgstr "калі ў вас праблемы, націсніце сюды для скіду ўбудовы"
+
+msgid "Reset Plugin"
+msgstr "Скінуць убудову"
+
+msgid "addWeather Configuration"
+msgstr "канфігурацыя addWeather "
+
+msgid "System of measurement"
+msgstr "Сістэма вымярэння"
+
+msgid "Metric"
+msgstr "Метрыка"
+
+msgid "English"
+msgstr "Ангельскі"
+
+msgid "Cache time"
+msgstr "Час кэша"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "Cache dir"
+msgstr "Дырэкторыя кэша"
+
+msgid "writable"
+msgstr "для запісу "
+
+msgid "not writable"
+msgstr "не для запісу"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Update Config"
+msgstr "Абнавіць канфігурацыю"
+
+msgid "Actual Cities"
+msgstr "Актуальныя гарады"
+
+msgid "remove"
+msgstr "выдаліць"
+
+msgid "Search city"
+msgstr "Шукаць горад"
+
+msgid "Insert city name"
+msgstr "Уставіць імя горада"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Search Result"
+msgstr "Вынік пошуку"
+
+msgid "City Found"
+msgstr "Знойдзены горад"
+
+msgid "Save city"
+msgstr "Захаваць горад"
+
+msgid "no city found"
+msgstr "не знойдзены горад"
+

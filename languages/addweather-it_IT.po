@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addweather\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduardo Chiaro <e.chiaro@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "if you have problems, click here to reset the plug-in"
+msgstr "Se riscontri dei problemi, clicca qui per resettare la plug-in"
+
+msgid "Reset Plugin"
+msgstr "Reset Plugin"
+
+msgid "addWeather Configuration"
+msgstr "Configurazione addWeather"
+
+msgid "System of measurement"
+msgstr "Sistema di misura"
+
+msgid "Metric"
+msgstr "Metrico"
+
+msgid "English"
+msgstr "Inglese"
+
+msgid "Cache time"
+msgstr "Tempo massimo della cache"
+
+msgid "seconds"
+msgstr "secondi"
+
+msgid "Cache dir"
+msgstr "Cartella cache"
+
+msgid "writable"
+msgstr "scrivibile"
+
+msgid "not writable"
+msgstr "non scrivibile"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Update Config"
+msgstr "Aggiorna la Configurazione"
+
+msgid "Actual Cities"
+msgstr "Città Attuali"
+
+msgid "remove"
+msgstr "elimina"
+
+msgid "Search city"
+msgstr "Ricerca Città"
+
+msgid "Insert city name"
+msgstr "Inserisci il nome della città"
+
+msgid "Search"
+msgstr "Ricerca"
+
+msgid "Search Result"
+msgstr "Risultato della Ricerca"
+
+msgid "City Found"
+msgstr "Città Trovate"
+
+msgid "Save city"
+msgstr "Salva la città"
+
+msgid "no city found"
+msgstr "nessuna città trovata"
+
+msgid "Trim city name"
+msgstr "Taglia il nome della città"
+

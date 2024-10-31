@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addweather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-09 13:42+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mostafa.s1990@gmail.com <mostafa.s1990@gmail.com>\n"
+"Language-Team:  <mostafa.s1990@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:101
+msgid "if you have problems, click here to reset the plug-in"
+msgstr "اگر شما مشکلی دارید, برای ریست افزونه کلیک کنید"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:112
+msgid "addWeather Configuration"
+msgstr "تنظیمات آب و هوا"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:115
+msgid "System of measurement"
+msgstr "سیستم اندازه گیری"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:117
+msgid "English"
+msgstr "انگلیسی"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:118
+msgid "Metric"
+msgstr "متریک"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:122
+msgid "Cache time"
+msgstr "زمان حافظه"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:123
+msgid "seconds"
+msgstr "ثانیه"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:126
+msgid "Cache dir"
+msgstr "حافظه دیر"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:129
+msgid "writable"
+msgstr "قابل نوشتن"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:131
+msgid "not writable"
+msgstr "بدون نوشتن"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:136
+msgid "Template"
+msgstr "قالب"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:156
+msgid "Update Config"
+msgstr "به روز رسانی تنظیمات"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:161
+msgid "Actual Cities"
+msgstr "شهرهای حقیقی"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:167
+msgid "remove"
+msgstr "حذف"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:180
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:187
+msgid "Search city"
+msgstr "جستجوی شهر"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:183
+msgid "Insert city name"
+msgstr "نام شهر را وارد کنید"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:213
+msgid "no city found"
+msgstr "شهری پیدا نشد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:218
+msgid "Search Result"
+msgstr "نتیجه جستجو"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:221
+msgid "City Found"
+msgstr "شهر پیدا شد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/admin.addweather.php:234
+msgid "Save city"
+msgstr "ذخیره شهر"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\addweather/addweather.php:139
+msgid "Settings"
+msgstr "تنظیمات"
+
